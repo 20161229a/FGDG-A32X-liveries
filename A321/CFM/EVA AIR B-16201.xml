@@ -1,9 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
 <PropertyList>
 	<sim>
 		<model>
 			<livery>
-				<name type="string">TransAsia B-22311</name>
-				<texture>Liveries/A320/IAE/TransAsia B-22311.png</texture>
+				<name>EVAAIR B-16201</name>
+				<texture>Liveries/A321/CFM/EVA AIR B-16201.png</texture>
 			</livery>
 		</model>
 	</sim>
@@ -14,3 +16,4 @@
 	
 	<sharklet type="bool">0</sharklet>
 </PropertyList>
+ 
