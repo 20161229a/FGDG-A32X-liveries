@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>HKExpress</name>
+				<texture>Liveries/A320/PW-NEO/HKE.png</texture>
+			</livery>
+			<eng>
+				<texture>Liveries/A320/PW-NEO/HKE-eng.png</texture>
+			</eng>
+		</model>
+	</sim>
+</PropertyList>
